@@ -4,7 +4,10 @@
 
 ## About me 
 
-videos 
+I am a Web3 developer, exploring blockchain technologies and their integration. I study at the Institute in the Faculty of Applied Mathematics. Always open to collaboration and communication. 
+
+------
+
 
 ## Languages and Tools 
 [![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)](https://soliditylang.org/)
@@ -18,12 +21,14 @@ videos
 [![Cryptography](https://img.shields.io/badge/-Cryptography-000000?logo=&logoColor=white)](https://cryptography.io/)
 -----------
 
+### Follow me 
 
+[![X](https://img.shields.io/badge/-000000?logo=x&logoColor=white)](https://x.com/seelffff)
 
+-----
+### support me 
+#### evm - 0x841cbFf962DD117C379223152fF2Ab6d79C9c41D
 
+#### sol - 0x841cbFf962DD117C379223152fF2Ab6d79C9c41D
 
-
-follow me 
-
-
-support me 
+#### btc - 0x841cbFf962DD117C379223152fF2Ab6d79C9c41D
