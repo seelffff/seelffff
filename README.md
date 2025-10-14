@@ -1,4 +1,4 @@
-![Header](https://github.com/seelffff/seelffff/blob/main/assets/photo.jpg) 
+![Header](https://github.com/seelffff/seelffff/blob/main/assets/photo.png) 
 
 about me 
 
