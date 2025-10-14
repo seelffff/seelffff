@@ -1,5 +1,5 @@
-![Header](https://github.com/seelffff/seelffff/blob/main/assets/photo.png) 
-
+[![Header](https://github.com/seelffff/seelffff/blob/main/assets/photo.png) 
+](https://x.com/seelffff)
 about me 
 
 videos 
