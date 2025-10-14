@@ -29,6 +29,6 @@ I am a Web3 developer, exploring blockchain technologies and their integration. 
 ### support me 
 #### evm - 0x841cbFf962DD117C379223152fF2Ab6d79C9c41D
 
-#### sol - 0x841cbFf962DD117C379223152fF2Ab6d79C9c41D
+#### sol - 9xBf2mV58d9YJpn89wtZ69zAE88hoXfCwbDjbcNduZNc
 
-#### btc - 0x841cbFf962DD117C379223152fF2Ab6d79C9c41D
+#### btc - 3ABWZhQTPy5WyanQP3WEAb4AQYfXfbN9WH
