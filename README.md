@@ -16,6 +16,7 @@ I am a Web3 developer, exploring blockchain technologies and their integration. 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![Ethers.js](https://img.shields.io/badge/-Ethers.js-000000?logo=ethereum&logoColor=white)](https://docs.ethers.io/v5/)
+[![Viem](https://img.shields.io/badge/-Viem-000000?logo=ethereum&logoColor=white)](https://viem.sh/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Cryptography](https://img.shields.io/badge/-Cryptography-000000?logo=&logoColor=white)](https://cryptography.io/)
