@@ -24,10 +24,3 @@ I am a Web3 developer, exploring blockchain technologies and their integration. 
 ### Follow me
 [![X](https://img.shields.io/badge/-000000?logo=x&logoColor=white)](https://x.com/seelffff)
 
------
-### support me
-#### evm - 0x841cbFf962DD117C379223152fF2Ab6d79C9c41D
-
-#### sol - 9xBf2mV58d9YJpn89wtZ69zAE88hoXfCwbDjbcNduZNc
-
-#### btc - 3ABWZhQTPy5WyanQP3WEAb4AQYfXfbN9WH
