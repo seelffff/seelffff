@@ -1,26 +1,50 @@
-[![Header](https://github.com/seelffff/seelffff/blob/main/assets/photo1.png)](https://x.com/seelffff)
+[![Header](https://github.com/seelffff/seelffff/blob/main/assets/photo1.png)](https://www.linkedin.com/in/ivan-sychev-51555b3a0/)
 
 ## About me
 
-I am a Web3 developer, exploring blockchain technologies and their integration. I study at the Institute in the Faculty of Applied Mathematics. Always open to collaboration and communication.
+I am an Applied Mathematics and Informatics student focused on Machine Learning, Data Science, and Python development.
+
+Currently, I am strengthening my foundation in statistics, classical machine learning, and deep learning through the IBM Machine Learning Professional Certificate and personal projects. My main goal is to build practical ML projects, improve my Python/PyTorch skills, and prepare for graduate studies in Machine Learning or Data Science.
+
+Previously, I explored Web3 development, which helped me gain experience with software engineering, Git, JavaScript/TypeScript, Go, and blockchain-related tools.
+
+------
+
+## Current Focus
+
+- Python for data analysis and machine learning
+- Statistics, linear algebra, and probability theory
+- Classical ML models and evaluation
+- PyTorch and neural networks
+- NLP and transformer-based language models
+- Building a small GPT-style language model from scratch
 
 ------
 
 ## Languages and Tools
-[![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)](https://soliditylang.org/)
-[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
-[![Ethers.js](https://img.shields.io/badge/-Ethers.js-000000?logo=ethereum&logoColor=white)](https://docs.ethers.io/v5/)
-[![Viem](https://img.shields.io/badge/-Viem-000000?logo=ethereum&logoColor=white)](https://viem.sh/)
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Cryptography](https://img.shields.io/badge/-Cryptography-000000?logo=&logoColor=white)](https://cryptography.io/)
 
------------
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)](https://matplotlib.org/)
+[![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
-### Follow me
-[![X](https://img.shields.io/badge/-000000?logo=x&logoColor=white)](https://x.com/seelffff)
+------
 
+## Projects in Progress
+
+- `mini-llm-lab` - a learning-focused implementation of a small GPT-style language model in PyTorch
+- `ibm-machine-learning-projects` - practical projects from the IBM Machine Learning Professional Certificate
+- `ml-from-scratch` - basic ML algorithms implemented with Python and NumPy
+
+------
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-sychev-51555b3a0/)
+[![X](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white)](https://x.com/seelffff)
